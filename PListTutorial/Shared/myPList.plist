@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>DepartmentName</key>
+            <string>CS</string>
+            <key>DepartmentNumber</key>
+            <string>3460</string>
+            <key>Name</key>
+            <string>iOS Development</string>
+            <key>Number</key>
+            <string>489</string>
+            <key>Section</key>
+            <string>001</string>
+        </dict>
+        <dict>
+            <key>DepartmentName</key>
+            <string>CS</string>
+            <key>DepartmentNumber</key>
+            <string>3460</string>
+            <key>Name</key>
+            <string>Software Engineering</string>
+            <key>Number</key>
+            <string>480</string>
+            <key>Section</key>
+            <string>801</string>
+        </dict>
+    </array>
+</plist>
